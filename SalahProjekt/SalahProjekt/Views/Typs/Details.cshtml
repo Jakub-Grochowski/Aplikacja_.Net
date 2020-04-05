@@ -1,0 +1,54 @@
+﻿@model SalahProjekt.Models.Typ
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Typ</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Mecz.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mecz.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tprofile.Login)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tprofile.Login)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bramki_D1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bramki_D1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bramki_D2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bramki_D2)
+        </dd>
+
+        @*<dt>
+            @Html.DisplayNameFor(model => model.MyProperty)
+        </dt>*@   
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

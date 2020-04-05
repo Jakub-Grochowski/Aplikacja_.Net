@@ -1,0 +1,85 @@
+﻿@model IEnumerable<SalahProjekt.Models.Typ>
+    @*tu bym chciał wybrać tylko typy użytkownika*@
+
+@{
+    ViewBag.Title = "MyTyps";
+}
+
+<h2>MyTyps</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Mecz.druzyna1.Nazwa_Druzyny) @Html.DisplayNameFor(model => model.Mecz.druzyna2.Nazwa_Druzyny)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.Tprofile.Login)
+        </th>
+        <th>
+            suma punktow
+        </th>*@
+        <th>
+            typ bramek Gospodarzy
+        </th>
+        <th>
+            typ bramek gosci
+        </th>
+        <th>
+            <p>Wynik Gospodarzy</p>
+        </th>
+        <th>
+            <p>Wynik Gosci</p>
+        </th>
+        <th></th>
+    </tr>
+@{ 
+    var skutecznosc = 0;
+    var ilosc = 0;
+    var sum = 0;
+}
+@foreach (var item in Model) {
+    if ((item.Bramki_D1 > item.Bramki_D2 && item.Mecz.Bramki_D1 > item.Mecz.Bramki_D2) || (item.Bramki_D1 < item.Bramki_D2 && item.Mecz.Bramki_D1 < item.Mecz.Bramki_D2))
+    {
+        skutecznosc = skutecznosc + 1;
+        ilosc = ilosc + 1;
+    }
+    else {
+        ilosc = ilosc + 1;
+        sum = item.Tprofile.SumaPunktow;
+
+    }
+                <tr @((item.Bramki_D1 > item.Bramki_D2 && item.Mecz.Bramki_D1 > item.Mecz.Bramki_D2) || (item.Bramki_D1 < item.Bramki_D2 && item.Mecz.Bramki_D1 < item.Mecz.Bramki_D2)?"style=background:lightgreen":"")>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Mecz.ID)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Tprofile.Login)
+        </td>*@
+        @*<td>
+            @Html.DisplayFor(modelItem=> item.Tprofile.SumaPunktow)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Mecz.druzyna1.Nazwa_Druzyny)
+            @Html.DisplayFor(modelItem => item.Bramki_D1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mecz.druzyna2.Nazwa_Druzyny)
+            @Html.DisplayFor(modelItem => item.Bramki_D2)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mecz.Bramki_D1)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mecz.Bramki_D2)
+        </td>
+    </tr>
+}
+    @{ 
+        var proc = skutecznosc / ilosc;
+    }
+<tr><td>Twoja Skutecznosc:</td><td>@skutecznosc / @ilosc  </td><td>suma punktow: @sum</td></tr>
+</table>

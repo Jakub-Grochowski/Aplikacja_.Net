@@ -1,0 +1,58 @@
+﻿@model SalahProjekt.Models.Mecz
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Mecz</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.druzyna1.Nazwa_Druzyny)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.druzyna1.Nazwa_Druzyny)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.druzyna2.Nazwa_Druzyny)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.druzyna2.Nazwa_Druzyny)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bramki_D1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bramki_D1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bramki_D2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bramki_D2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.dataMeczu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dataMeczu)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,82 @@
+﻿@model SalahProjekt.Models.Druzyna
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Druzyna</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwa_Druzyny)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwa_Druzyny)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Lista_Meczy_Gospodarz)
+        </dt>
+
+        <dd>
+            <table>
+                <tr>
+                    <th>Przeciwnik</th>
+                    <th>Bramki Strzelone</th>
+                    <th>Bramki Stracone</th>
+                </tr>
+                @foreach (var item in Model.Lista_Meczy_Gospodarz)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.druzyna2.Nazwa_Druzyny);
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Bramki_D1);
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Bramki_D2);
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+        <br />
+        <dt>
+            @Html.DisplayNameFor(model => model.Lista_Meczy_Goscie)
+        </dt>
+
+        <dd>
+            <table>
+                <tr>
+                    <th>Przeciwnik</th>
+                    <th>Bramki Strzelone</th>
+                    <th>Bramki Stracone</th>
+                </tr>
+                @foreach (var item in Model.Lista_Meczy_Goscie)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.druzyna1.Nazwa_Druzyny);
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Bramki_D2);
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Bramki_D1);
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<SalahProjekt.ViewModels.TeamGamesCount>
+
+@{
+    ViewBag.Title = "Team Game Statistics";
+}
+
+<h2>Liczba Meczy każdej z drużyn zarejestrowanych na tej stronie</h2>
+
+<table>
+    <tr>
+        <th>
+            team Name
+        </th>
+        <th>
+            Games
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.teamName
+            </td>
+            <td>
+                @item.gamesCount
+            </td>
+        </tr>
+    }
+</table>

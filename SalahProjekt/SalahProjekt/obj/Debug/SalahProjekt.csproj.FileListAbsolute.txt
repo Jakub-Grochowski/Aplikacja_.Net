@@ -1,0 +1,594 @@
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Owin.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+c:\users\admin\documents\visual studio 2015\Projects\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb
+D:\Salah\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Salah\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Salah\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+D:\Salah\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+D:\Salah\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Owin.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+D:\Salah\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Salah\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Salah\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojAssemblyReference.cache
+D:\Salah\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CoreCompileInputs.cache
+D:\Salah\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CopyComplete
+D:\Salah\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+D:\Salah\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojAssemblyReference.cache
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CoreCompileInputs.cache
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Owin.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CopyComplete
+D:\Studia6\PZ\Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+D:\Kuba\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Kuba\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Kuba\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+D:\Kuba\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Owin.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Kuba\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Kuba\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojAssemblyReference.cache
+D:\Kuba\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CoreCompileInputs.cache
+D:\Kuba\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CopyComplete
+D:\Kuba\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+D:\Kuba\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Owin.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojResolveAssemblyReference.cache
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CoreCompileInputs.cache
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CopyComplete
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+E:\PZ\Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Owin.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojAssemblyReference.cache
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CoreCompileInputs.cache
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CopyComplete
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\PagedList.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\PagedList.Mvc.dll
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\PagedList.xml
+D:\Studia6\PZ_Projekt\SalahProjekt\SalahProjekt\bin\PagedList.Mvc.xml
+E:\SalahProjekt\SalahProjekt\bin\ApplicationInsights.config
+E:\SalahProjekt\SalahProjekt\bin\roslyn\csc.exe
+E:\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SalahProjekt\SalahProjekt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SalahProjekt\SalahProjekt\bin\roslyn\System.Collections.Immutable.dll
+E:\SalahProjekt\SalahProjekt\bin\roslyn\System.Reflection.Metadata.dll
+E:\SalahProjekt\SalahProjekt\bin\roslyn\vbc.exe
+E:\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe
+E:\SalahProjekt\SalahProjekt\bin\roslyn\VBCSCompiler.exe.config
+E:\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll.config
+E:\SalahProjekt\SalahProjekt\bin\SalahProjekt.dll
+E:\SalahProjekt\SalahProjekt\bin\SalahProjekt.pdb
+E:\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.dll
+E:\SalahProjekt\SalahProjekt\bin\EntityFramework.dll
+E:\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Web.Infrastructure.dll
+E:\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.dll
+E:\SalahProjekt\SalahProjekt\bin\Owin.dll
+E:\SalahProjekt\SalahProjekt\bin\PagedList.dll
+E:\SalahProjekt\SalahProjekt\bin\PagedList.Mvc.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Razor.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.dll
+E:\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.dll
+E:\SalahProjekt\SalahProjekt\bin\WebGrease.dll
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.DependencyCollector.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.Web.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AI.WindowsServer.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.ApplicationInsights.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SalahProjekt\SalahProjekt\bin\PagedList.xml
+E:\SalahProjekt\SalahProjekt\bin\PagedList.Mvc.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Helpers.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Mvc.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Optimization.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.Razor.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Deployment.xml
+E:\SalahProjekt\SalahProjekt\bin\System.Web.WebPages.Razor.xml
+E:\SalahProjekt\SalahProjekt\bin\Antlr3.Runtime.pdb
+E:\SalahProjekt\SalahProjekt\bin\Newtonsoft.Json.xml
+E:\SalahProjekt\SalahProjekt\bin\EntityFramework.xml
+E:\SalahProjekt\SalahProjekt\bin\EntityFramework.SqlServer.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Core.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Facebook.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Cookies.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.OAuth.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Google.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.Twitter.xml
+E:\SalahProjekt\SalahProjekt\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csprojResolveAssemblyReference.cache
+E:\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CoreCompileInputs.cache
+E:\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.csproj.CopyComplete
+E:\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.dll
+E:\SalahProjekt\SalahProjekt\obj\Debug\SalahProjekt.pdb

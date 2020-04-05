@@ -1,0 +1,64 @@
+﻿@model SalahProjekt.Models.Typ
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Typ</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Mecz.ID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mecz.ID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tprofile.Login)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tprofile.Login)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bramki_D1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bramki_D1)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Bramki_D2)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Bramki_D2)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MyProperty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MyProperty)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

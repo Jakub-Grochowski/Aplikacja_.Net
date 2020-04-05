@@ -1,0 +1,34 @@
+﻿@model IEnumerable<SalahProjekt.Controllers.TypsController.PomClass>
+
+@{
+    ViewBag.Title = "Wyniki";
+}
+
+<h2>Wyniki</h2>
+
+<p>
+    Ranking Uzytkownikow
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.login)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.suma)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.login)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.suma)
+        </td>
+    </tr>
+}
+
+</table>
